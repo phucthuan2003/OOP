@@ -1,0 +1,10 @@
+123
+Nguyen Van A
+30/12/2000
+KHMT
+1
+234
+Nguyen Van B
+12/12/1999
+CNTT
+0
